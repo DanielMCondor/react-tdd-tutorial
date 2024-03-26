@@ -1,3 +1,3 @@
 import React from 'react';
 
-export const MainPage = () => <div />
+export const MainPage = () => <h1>simpsons quotes</h1>;
